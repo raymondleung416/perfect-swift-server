@@ -1,4 +1,8 @@
-# PerfectTemplate
+# Perfect Swift Server Tutorial
+
+<p align="center">
+This is a sample Perfect Server I picked up from a workshop.
+</p>
 
 <p align="center">
     <a href="http://perfect.org/get-involved.html" target="_blank">
